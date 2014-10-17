@@ -1,0 +1,23 @@
+{
+    "evaluations": {
+        "evaluation": {
+            "url": "https://github.com/leebrian/setph/blob/master/structured-evaluation-technology-publich-health-tableau.docx",
+            "technology": "Tableau",
+            "version": "8.2",
+            "keywords": [
+                "Data Analysis",
+                "Data Visualization"
+            ],
+            "author": "@leebrian",
+            "acceptability": 1,
+            "usefulness": 1,
+            "accuracy": 1,
+            "architecture": 1,
+            "data-quality": 1,
+            "timeliness": 0,
+            "costs": 1,
+            "organizational": 1,
+            "supportability": 1
+        }
+    }
+}
